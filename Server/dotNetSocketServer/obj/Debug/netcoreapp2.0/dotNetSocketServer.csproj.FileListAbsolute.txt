@@ -1,0 +1,11 @@
+E:\vsprojects\dotNetSocketServer\dotNetSocketServer\bin\Debug\netcoreapp2.0\dotNetSocketServer.deps.json
+E:\vsprojects\dotNetSocketServer\dotNetSocketServer\bin\Debug\netcoreapp2.0\dotNetSocketServer.runtimeconfig.json
+E:\vsprojects\dotNetSocketServer\dotNetSocketServer\bin\Debug\netcoreapp2.0\dotNetSocketServer.runtimeconfig.dev.json
+E:\vsprojects\dotNetSocketServer\dotNetSocketServer\bin\Debug\netcoreapp2.0\dotNetSocketServer.dll
+E:\vsprojects\dotNetSocketServer\dotNetSocketServer\bin\Debug\netcoreapp2.0\dotNetSocketServer.pdb
+E:\vsprojects\dotNetSocketServer\dotNetSocketServer\obj\Debug\netcoreapp2.0\dotNetSocketServer.csprojAssemblyReference.cache
+E:\vsprojects\dotNetSocketServer\dotNetSocketServer\obj\Debug\netcoreapp2.0\dotNetSocketServer.csproj.CoreCompileInputs.cache
+E:\vsprojects\dotNetSocketServer\dotNetSocketServer\obj\Debug\netcoreapp2.0\dotNetSocketServer.AssemblyInfoInputs.cache
+E:\vsprojects\dotNetSocketServer\dotNetSocketServer\obj\Debug\netcoreapp2.0\dotNetSocketServer.AssemblyInfo.cs
+E:\vsprojects\dotNetSocketServer\dotNetSocketServer\obj\Debug\netcoreapp2.0\dotNetSocketServer.dll
+E:\vsprojects\dotNetSocketServer\dotNetSocketServer\obj\Debug\netcoreapp2.0\dotNetSocketServer.pdb
